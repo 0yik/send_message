@@ -20,6 +20,14 @@ class SaleOrderInherit(models.Model):
 
 
 
+# Demo
+
+Call **send_message_user** from outside odoo using odoorpc
+
+![](demo.gif)
+
+
+
 # TODO
 
 - Send message to channel. as #general etc
